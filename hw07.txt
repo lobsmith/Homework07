@@ -1,1 +1,2 @@
 This is my text file for Homework #7.
+This is the second line of text.
