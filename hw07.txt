@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 HELLO THERE CSCI-C151
->>>>>>> cdb1b679f2c6b0a54bcc26f8b4cf8c9cf87895f5
 This is my text file for Homework #7.
 This is the second line of text.
 BYE BYE
